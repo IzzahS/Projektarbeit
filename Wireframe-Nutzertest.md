@@ -1,8 +1,6 @@
 ## Hypothese und Bewertung
----
 Unser Ziel mit dem Nutzertest ist es herauszufinden, ob unsere App für die Nutzer eindach zu bedienen ist. Wir wollen sehen, ob die Nutzer ohne zusätzliche Anweisungen verstehen, wie sie die verschiedenen Bildschirme nutzen können. Ausserdem möchten wir herausfinden, ob es Funktionen oder Werkzeuge gibt, die die Nutzer vermissen und die sie in der App erwarten würden. Die Resultate des Nutzertest werden wir sorgfältig analysieren, und wir werden sie bestmöglich nutzen, um die App weiter zu verbessern.
 ## Fazit aus dem Test
----
 ### Was war gut?
 - Die Login-Seite war klar strukturiert und leicht verständlich
 - Die Methode zum Eingeben von Werten war ebenfalls klar und einfach nachvollziehbar
