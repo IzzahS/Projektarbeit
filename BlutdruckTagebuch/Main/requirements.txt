@@ -1,5 +1,0 @@
-pandas
-streamlit
-requests
-matplotlib
-streamlit-authenticator
